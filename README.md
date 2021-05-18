@@ -21,6 +21,9 @@
 - The German smokes Rothmans.
 - The Marlboro smoker has a neighbour who drinks water.
 
+## Question
+Who keeps the fish as a pet.
+
 ## Solution
 | House       | 1         | 2        | 3         | 4        | 5        |
 | ----------- | --------- | -------- | --------- | -------- | -------- |
@@ -29,3 +32,5 @@
 | Drink       | water     | tea      | milk      | coffee   | beer     |
 | Smoke       | dunhill   | marlboro | pall_mall | rothmans | winfield |
 | Pet         | cat       | horse    | bird      | fish     | dog      |
+
+The German keeps the fish as a pet.
